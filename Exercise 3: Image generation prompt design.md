@@ -10,4 +10,4 @@ Write a descriptive prompt for an image model (e.g., "A futuristic city skyline 
 
 ![my_second_image](https://i.ibb.co/qMHR7ML9/Gemini-Generated-Image-mpcs5impcs5impcs.png)
 
-![my third image](https://ibb.co/mF82J7cd)
+![my third image](https://i.ibb.co/3Yzj1HCV/Gemini-Generated-Image-tsw6hgtsw6hgtsw6.png) 
